@@ -54,4 +54,6 @@ I'll learn & practice the following things. As part of the 'Getting Started with
 #### 7.4. Scroll to the bottom and click Commit Changes.
 
 ### 8. Merge your pull request (Make your changes live by merging your PR)
-#### 
+#### 8.1. Click Merge pull request
+#### 8.2. Click Confirm merge
+#### 8.3. Once your branch has been merged, you don't need it anymore. Click Delete branch.
