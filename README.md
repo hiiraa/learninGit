@@ -1,4 +1,4 @@
-# learninGit
+# LearningGit
 ## I'll learn & practice the following things. As part of the 'Getting Started with GitHub' tutorial.
 
 ### 1. Assign Yourself to an Issue
