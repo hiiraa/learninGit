@@ -29,7 +29,23 @@ I'll learn & practice the following things. As part of the 'Getting Started with
 #### 5.5. When you’ve entered a commit message, click Commit new file.
 
 ### 6. Open a pull request (Open a pull request to propose your new file to the codebase)
-#### 
+#### 6.1. On the Code tab, click New pull request
+#### 6.2. In the base: drop-down menu, make sure the master branch is selected
+#### 6.3. In the compare: drop-down menu, select the branch you recently made your commit on
+#### 6.4. When you’ve selected your branch, enter a title for your pull request, for example Add username's file
+#### 6.5. The next field helps you provide a description of the changes you made. Feel free to add a description of what you’ve accomplished so far. As a reminder, you have: created a branch, created a file and made a commit, and opened a pull request
+#### 6.6. Click Create pull request
+
+### 6.A. Resolve Conflicts (Files from different branch have conflict)
+#### 6.A.1. Under your repository name, click  Pull requests.
+#### 6.A.2. In the "Pull Requests" list, click the pull request with a merge conflict that you'd like to resolve.
+#### 6.A.3. Near the bottom of your pull request, click Resolve conflicts.
+#### 6.A.4. Decide if you want to keep only your branch's changes, keep only the other branch's changes, or make a brand new change, which may incorporate changes from both branches. Delete the conflict markers <<<<<<<, =======, >>>>>>> and make the changes you want in the final merge.
+#### 6.A.5. If you have more than one merge conflict in your file, scroll down to the next set of conflict markers and repeat steps four and five to resolve your merge conflict.
+#### 6.A.6. click mark as resolved buttonOnce you've resolved all the conflicts in the file, click Mark as resolved.
+#### 6.A.7. If you have more than one file with a conflict, select the next file you want to edit on the left side of the page under "conflicting files" and repeat steps four through seven until you've resolved all of your pull request's merge conflicts.
+#### 6.A.8. Once you've resolved all your merge conflicts, click Commit merge. This merges the entire base branch into your head branch.
+#### 6.A.9. To merge your pull request, click Merge pull request.
 
 ### 7. Respond to a review (Respond to a PR review)
 #### 
