@@ -6,14 +6,13 @@ I'll learn & practice the following things. As part of the 'Getting Started with
 #### Also can assign Labels, Projects, Milestones etc.
 
 ### 2. Turn on GitHub Pages
-#### a. Activity: Enable GitHub Pages
-#### b. Click on the Settings tab in this repository
-#### c. Scroll down to the "GitHub Pages" section
-#### d. From the "Source" drop down, select master branch
-#### e. Click Save
+#### a. Click on the Settings tab in this repository
+#### b. Scroll down to the "GitHub Pages" section
+#### c. From the "Source" drop down, select master branch
+#### d. Click Save
 
 ### 3. Close an issue
-#### 
+#### Click close button at the bottom of the issue.
 
 ### 4. Create a branch (Create a branch for introducing new changes)
 #### 
