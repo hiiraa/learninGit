@@ -47,8 +47,11 @@ I'll learn & practice the following things. As part of the 'Getting Started with
 #### 6.A.8. Once you've resolved all your merge conflicts, click Commit merge. This merges the entire base branch into your head branch.
 #### 6.A.9. To merge your pull request, click Merge pull request.
 
-### 7. Respond to a review (Respond to a PR review)
-#### 
+### 7. Respond to a review (Respond to a PR review) [//Don't know what's this all about!!!]
+#### 7.1. Click the Files Changed tab in this pull request
+#### 7.2. Click on the pencil (✏) icon found on the right side of the screen
+#### 7.3. Replace line 5 with something new
+#### 7.4. Scroll to the bottom and click Commit Changes.
 
 ### 8. Merge your pull request (Make your changes live by merging your PR)
 #### 
