@@ -15,6 +15,7 @@ I'll learn & practice the following things. As part of the 'Getting Started with
 #### Click close button at the bottom of the issue.
 
 ### 4. Create a branch (Create a branch for introducing new changes)
+
 #### 4.1. Navigate to the “Code” tab
 #### 4.2. Click Branch: master in the drop-down
 #### 4.3. In the field, enter a name for your branch eg. dev
@@ -26,7 +27,6 @@ I'll learn & practice the following things. As part of the 'Getting Started with
 #### 5.3. When you’re done naming the file, add the content to your file.
 #### 5.4. After adding the text, you can commit the change by entering a commit message in the text-entry field below the file edit view.
 #### 5.5. When you’ve entered a commit message, click Commit new file.
-
 
 ### 6. Open a pull request (Open a pull request to propose your new file to the codebase)
 #### 
