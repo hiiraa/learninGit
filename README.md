@@ -15,7 +15,10 @@ I'll learn & practice the following things. As part of the 'Getting Started with
 #### Click close button at the bottom of the issue.
 
 ### 4. Create a branch (Create a branch for introducing new changes)
-#### 
+#### a. Navigate to the “Code” tab
+#### b. Click Branch: master in the drop-down
+#### c. In the field, enter a name for your branch eg. dev
+#### d. Click Create branch: or press the “Enter” key to create your branch
 
 ### 5. Commit a file (Commit your file to the branch.)
 #### 
