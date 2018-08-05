@@ -1,5 +1,5 @@
 # learninGit
-##I'll learn & practice the following things. As part of the 'Getting Started with GitHub' tutorial.
+## I'll learn & practice the following things. As part of the 'Getting Started with GitHub' tutorial.
 
 ### 1. Assign Yourself to an Issue
 #### On the right side of the issue screen, under the "Assignees" section, click the gear icon and select yourself.
